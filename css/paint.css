@@ -66,4 +66,6 @@ body div#wall div.parent div > #tag-7.slick {
   display: block;
 }
 
-body div#wall div.parent div div > #tag-7.slick
+body div#wall div.parent div div > #tag-7.slick {
+  display: none;
+}
